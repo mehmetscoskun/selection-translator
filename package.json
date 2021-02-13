@@ -1,0 +1,19 @@
+{
+  "name": "selection-translator",
+  "version": "1.0.0",
+  "description": "This piece of code will allow users to select a piece of text and then translate it to the language selected by the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmetscoskun/selection-translator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehmetscoskun/selection-translator/issues"
+  },
+  "homepage": "https://github.com/mehmetscoskun/selection-translator#readme"
+}
