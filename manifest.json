@@ -4,13 +4,13 @@
 	"version": "0.1",
 	"description": "First trying",
 	"background": {
-		"service_worker": "background.js"
+		"service_worker": "/background/background.js"
 	},
-	"options_page": "options.html",
+	"options_page": "/options/options.html",
 	"permissions": ["storage", "activeTab", "scripting", "declarativeContent", "tabs"],
 	"host_permissions": ["http://*/*", "https://*/*"],
 	"action": {
-		"default_popup": "popup.html",
+		"default_popup": "/popup/popup.html",
 		"default_icon": {
 			"16": "/images/get_started16.png",
 			"32": "/images/get_started32.png",

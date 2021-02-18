@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+
+# secure items
+.env.google
+selection-translator-305219-1d03c9bf3ef2.json

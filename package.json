@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mehmetscoskun/selection-translator/issues"
   },
-  "homepage": "https://github.com/mehmetscoskun/selection-translator#readme"
+  "homepage": "https://github.com/mehmetscoskun/selection-translator#readme",
+  "dependencies": {
+    "@google-cloud/translate": "^6.1.0"
+  }
 }
